@@ -13,7 +13,7 @@ description: >-
 
 # Repo Memory Skill
 
-Version: 3.2.1 <!-- x-release-please-version -->
+Version: 3.3.0 <!-- x-release-please-version -->
 
 > This version marker is managed by release-please. Do not edit it manually.
 

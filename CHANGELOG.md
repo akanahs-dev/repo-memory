@@ -6,6 +6,22 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 Version numbers match the `Version:` fields in [`skills/repo-memory/STANDARD.md`](./skills/repo-memory/STANDARD.md)
 and [`skills/repo-memory/SKILL.md`](./skills/repo-memory/SKILL.md).
 
+## [3.3.0](https://github.com/akanahs-dev/repo-memory/compare/repo-memory-v3.2.1...repo-memory-v3.3.0) (2026-07-23)
+
+
+### Features
+
+* add .scratch/ convention to bootstrapper mode ([21dfe41](https://github.com/akanahs-dev/repo-memory/commit/21dfe418b6ded2b564dd1647eda48f27809fb435))
+* reposition as state persistence layer with typed slots and skill compatibility ([bc63b1a](https://github.com/akanahs-dev/repo-memory/commit/bc63b1a725411a487af578884638e851a5ec90b0))
+
+
+### Bug Fixes
+
+* correct skill mappings in compatible-skills.md, clarify bootstrapper criteria ([3653d44](https://github.com/akanahs-dev/repo-memory/commit/3653d44d1d38b7bc0bff49ea093e010a8f0e4d98))
+* exclude CHANGELOG.md from markdownlint CI glob ([98faac6](https://github.com/akanahs-dev/repo-memory/commit/98faac66f56f59ef1bc675ceafe6a343b4f17435))
+* remove accidentally committed scratch and temp files ([cea3462](https://github.com/akanahs-dev/repo-memory/commit/cea3462712ddb2f376adb9f21f20a927873b2533))
+* resolve markdownlint issues (trailing newlines, blank lines, code fences) ([4c50b62](https://github.com/akanahs-dev/repo-memory/commit/4c50b62a884288cdf445eb850e1d40255a7f4205))
+
 ## [3.2.1](https://github.com/akanahs-dev/repo-memory/compare/repo-memory-v3.2.0...repo-memory-v3.2.1) (2026-06-30)
 
 
